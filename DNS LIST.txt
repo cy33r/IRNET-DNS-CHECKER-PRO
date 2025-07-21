@@ -1,0 +1,148 @@
+# === Major Global Providers ===
+# Google
+8.8.8.8
+8.8.4.4
+# Cloudflare
+1.1.1.1
+1.0.0.1
+# Quad9 (Security)
+9.9.9.9
+149.112.112.112
+# OpenDNS / Cisco
+208.67.222.222
+208.67.220.220
+# AdGuard DNS (Ad-blocking)
+94.140.14.14
+94.140.15.15
+
+# === Security & Family Focused Variants ===
+# Cloudflare (Malware Blocking)
+1.1.1.2
+1.0.0.2
+# Cloudflare (Family)
+1.1.1.3
+1.0.0.3
+# Quad9 (Unsecured/No blocklist)
+9.9.9.10
+149.112.112.10
+# OpenDNS FamilyShield
+208.67.222.123
+208.67.220.123
+# CleanBrowse (Security)
+185.228.168.9
+185.228.169.9
+# CleanBrowse (Family)
+185.228.168.168
+185.228.169.168
+# CleanBrowse (Adult)
+185.228.168.10
+185.228.169.11
+
+# === Other Major Providers ===
+# Verisign
+64.6.64.6
+64.6.65.6
+# Comodo Secure
+8.26.56.26
+8.20.247.20
+# CenturyLink / Level3
+209.244.0.3
+209.244.0.4
+# Neustar UltraDNS
+156.154.70.1
+156.154.71.1
+# Yandex
+77.88.8.8
+77.88.8.1
+# Hurricane Electric
+74.82.42.42
+# Dyn (Oracle)
+216.146.35.35
+216.146.36.36
+
+# === Privacy & Uncensored Focused (Europe) ===
+# DNS.WATCH (Germany)
+84.200.69.80
+84.200.70.40
+# Digitalcourage (Germany)
+46.182.19.48
+5.9.164.112
+# dnsforge (France)
+104.194.8.129
+51.254.25.11
+# UncensoredDNS (Denmark)
+91.239.100.100
+89.233.43.71
+# CZ.NIC (Czech Republic)
+185.43.135.1
+193.17.47.1
+# FDN (France)
+80.67.169.12
+80.67.169.40
+# Applied Privacy (Austria)
+146.185.176.36
+# LibreDNS (Switzerland)
+116.203.115.194
+# Swiss Privacy Foundation (Switzerland)
+192.48.83.1
+# Chaos Computer Club (Germany)
+213.73.91.35
+
+# === North American Providers ===
+# Alternate DNS
+76.76.19.19
+76.223.122.150
+# Fourth Estate (USA)
+45.77.165.194
+# The Calyx Institute (USA)
+199.58.81.218
+207.244.95.148
+# Canadian Shield (CIRA)
+172.105.132.222
+192.71.245.208
+
+# === Asian Providers ===
+# Tiarap (Singapore)
+185.202.138.118
+# AliDNS (China)
+223.5.5.5
+223.6.6.6
+# DNSPod (China)
+119.29.29.29
+# 114DNS (China)
+114.114.114.114
+114.114.115.115
+
+# === IPv6 Addresses ===
+# Google
+2001:4860:4860::8888
+2001:4860:4860::8844
+# Cloudflare
+2606:4700:4700::1111
+2606:4700:4700::1001
+# Quad9
+2620:fe::fe
+2620:fe::9
+# OpenDNS
+2620:119:35::35
+2620:119:53::53
+# AdGuard
+2a10:50c0::ad1:ff
+2a10:50c0::ad2:ff
+# DNS.WATCH
+2001:1608:10:25::1c04:b12f
+2001:1608:10:25::9249:d69b
+# Verisign
+2620:74:1b::1:1
+2620:74:1c::2:2
+# Hurricane Electric
+2001:470:20::2
+# Neustar
+2610:a1:1018::1
+2610:a1:1019::1
+# Yandex
+2a02:6b8::feed:0ff
+2a02:6b8:0:1::feed:0ff
+# CZ.NIC
+2001:1488:800:400::1
+2001:678:1::1
