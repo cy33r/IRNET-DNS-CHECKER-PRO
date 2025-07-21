@@ -6,7 +6,7 @@
 
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)
 ![PYTHON VERSION](https://img.shields.io/badge/python-3.7+-brightgreen.svg)
-![GitHub Stars](<img src="https://img.shields.io/github/stars/cy33r/IRNET-DNS-CHECKER-PRO?style=social" alt="GitHub Stars">)
+![GitHub Stars](<img src="https://img.shields.io/github/stars/cy33r/IRNET-DNS-CHECKER-PRO/?style=social" alt="GitHub Stars">)
 ![APPLICATION SCREENSHOT](https://github.com/user-attachments/assets/22905402-f1e6-4775-9f8b-9d4945cda441)
 
 A GRAPHICAL, PROFESSIONAL, AND HIGH-SPEED UTILITY FOR BENCHMARKING AND TESTING DNS SERVERS, DESIGNED TO FIND THE FASTEST AND MOST STABLE DNS FOR YOUR INTERNET CONNECTION. THIS TOOL GOES BEYOND A SIMPLE PING, PROVIDING CRITICAL METRICS LIKE PACKET LOSS, GEOLOCATION (LOCATION), AND SERVICE PROVIDER (ISP) INFORMATION FOR A COMPREHENSIVE ANALYSIS.
