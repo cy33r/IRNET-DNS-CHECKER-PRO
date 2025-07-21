@@ -7,7 +7,7 @@
 
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)
 ![PYTHON VERSION](https://img.shields.io/badge/python-3.7+-brightgreen.svg)
-![GitHub Stars](https://img.shields.io/github/stars/IRNET-DNS-CHECKER-PRO/REPO.svg?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/cy33r/IRNET-DNS-CHECKER-PRO.svg?style=social)
 ![تصویر برنامه](https://github.com/user-attachments/assets/22905402-f1e6-4775-9f8b-9d4945cda441)
 
 یک ابزار گرافیکی، حرفه‌ای و پرسرعت برای بنچمارک و تست سرورهای DNS که با هدف پیدا کردن سریع‌ترین و پایدارترین DNS برای اتصال اینترنت شما طراحی شده است. این ابزار فراتر از یک PING ساده عمل کرده و معیارهای حیاتی مانند PACKET LOSS، موقعیت جغرافیایی (LOCATION) و اطلاعات سرویس‌دهنده (ISP) را برای یک تحلیل جامع فراهم می‌کند.
